@@ -1,0 +1,15 @@
+* { margin: 0; padding: 0 }
+
+html, body { font-family: Garamond }
+
+body.song-element { background-color: #EEEEFF }
+
+body.song-structure { background-color: #FFFFEE }
+
+h1 { font-size: 150px;
+position: absolute;
+bottom: -30px;
+left: -20px;
+white-space: nowrap}
+
+p { font-size: 100px }
